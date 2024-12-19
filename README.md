@@ -1,2 +1,3 @@
 This project aims to design and implement a distance control system for a vehicle using affordable and widely available components. The system employs an ultrasonic sensor to continuously monitor the distance between the vehicle and any objects in its path.
 
+![image alt](https://github.com/Ghanem-MO/Distance-Control-vehicle/blob/41af8900bcb06677d246770f646827ba992ab682/WhatsApp%20Image%202024-12-17%20at%2023.03.01_630c424d.jpg)
