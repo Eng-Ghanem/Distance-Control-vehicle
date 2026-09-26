@@ -4,6 +4,19 @@ An embedded real-time control system implemented on an AVR microcontroller (ATme
 
 ---
 
+## Table of Contents
+
+- [Features](#features)
+- [Control System Architecture](#control-system-architecture)
+- [Layered Software Architecture](#layered-software-architecture)
+- [Project Structure](#project-structure)
+- [Hardware Pinout Configuration](#hardware-pinout-configuration)
+- [Building & Flashing](#building--flashing)
+- [Project Documentation & Media](#project-documentation--media)
+- [Author](#author)
+
+---
+
 ## Features
 
 - **Closed-Loop PID Distance Regulation**:
